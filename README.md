@@ -4,5 +4,5 @@
   <img src="https://raw.githubusercontent.com/WenzelAddug/WenzelAddug/main/descarga.gif" />
 </p>
 
-💻 1º DAW student  
+💻 2º DAW student  
 🚀 Learning Java, MySQL, AWS  
