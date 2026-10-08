@@ -5,4 +5,4 @@
 </p>
 
 💻 2º DAW student  
-🚀 Learning Java, MySQL, AWS  
+🚀 Learning Java, MySQL, AWS Cloud, JavaScript and PHP
