@@ -12,7 +12,7 @@
 - 💻 I build web interfaces and I'm currently learning backend development with **Java (Jakarta EE)** and **PHP**
 - 🎨 Certified in **Figma** (OpenWebinars) — I like taking a design from mockup to working code
 - 🔍 **Open to FFE internship opportunities** for the 2026-2027 academic year
-- 🌍 Languages: Tagalog (native) · English (C1) · Spanish (B1-B2)
+- 🌍 Languages: Tagalog (native) · English (C2) · Spanish (B1-B2)
 
 ---
 
