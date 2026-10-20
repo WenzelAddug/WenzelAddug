@@ -52,4 +52,4 @@
 - 📚 Backend development (server-side Java & PHP), web app deployment, and advanced client-side JavaScript
 - 🧩 Practising algorithms on LeetCode (JavaScript)
 
-<p align="left"><i>Feel free to reach out — always happy to connect and collaborate.</i></p>
+<p align="left"><i>Feel free to reach out, always happy to connect and collaborate.</i></p>
