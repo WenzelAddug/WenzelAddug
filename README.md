@@ -10,7 +10,7 @@
 
 - 🎓 Studying **Grado Superior DAW** at IES Tetuán de las Victorias (Madrid), after completing **Grado Medio SMR** (systems & networks) at the same school
 - 💻 I build web interfaces and I'm currently learning backend development with **Java (Jakarta EE)** and **PHP**
-- 🎨 Certified in **Figma** (OpenWebinars) — I like taking a design from mockup to working code
+- 🎨 Certified in **Figma** (OpenWebinars) - I like taking a design from mockup to working code
 - 🔍 **Open to FFE internship opportunities** for the 2026-2027 academic year
 - 🌍 Languages: Tagalog (native) · English (C2) · Spanish (B1-B2)
 
@@ -42,8 +42,8 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [Mi Instituto – Diseño de Interfaces](https://github.com/WenzelAddug/Mi-Instituto-Dise-o-Interface-) | School website designed in Figma and built for the Diseño de Interfaces Web module | HTML · CSS |
-| [Formulario con Imagen](https://github.com/WenzelAddug/Formulario-con-Imagen) | Styled web form with image layout | HTML · CSS |
+| [Mi Instituto – Diseño de Interfaces](https://github.com/WenzelAddug/2-DAW-Dise-oInterface/tree/main/Mi%20Instituto%20Dise%C3%B1o%20Interface%20(Fase2)) | School website designed in Figma and built for the Diseño de Interfaces Web module | HTML · CSS |
+
 
 ---
 
