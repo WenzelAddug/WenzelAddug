@@ -11,7 +11,7 @@
 - 🎓 Studying **Grado Superior DAW** at IES Tetuán de las Victorias (Madrid), after completing **Grado Medio SMR** (systems & networks) at the same school
 - 💻 I build web interfaces and I'm currently learning backend development with **Java (Jakarta EE)** and **PHP**
 - 🎨 Certified in **Figma** (OpenWebinars) - I like taking a design from mockup to working code
-- 🔍 **Open to FFE internship opportunities** for the 2026-2027 academic year
+- 🔍 **Open to internship opportunities** for the 2026-2027 academic year
 - 🌍 Languages: Tagalog (native) · English (C1) · Spanish (B1-B2)
 
 ---
