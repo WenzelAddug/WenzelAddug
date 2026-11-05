@@ -52,4 +52,10 @@
 - 📚 Backend development (server-side Java & PHP), web app deployment, and advanced client-side JavaScript
 - 🧩 Practising algorithms on LeetCode (JavaScript)
 
+---
+
+### Connect with me
+
+<a href="https://www.linkedin.com/in/wenzel-addug-827195289/"><img src="https://img.shields.io/badge/LinkedIn-Wenzel%20Addug-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+
 <p align="left"><i>Feel free to reach out, always happy to connect and collaborate.</i></p>
