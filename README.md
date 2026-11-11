@@ -36,8 +36,8 @@ Lo que más me gusta es pasar un diseño de Figma a una web que funciona. Este c
 ## My path
 
 <picture>
-  <source media="(max-width: 544px)" srcset="https://raw.githubusercontent.com/WenzelAddug/WenzelAddug/main/assets/path-mobile.svg">
-  <img src="assets/path.svg" width="100%" alt="My path. 2022: Grado Medio SMR, systems and networks. 2025: first year of DAW. 2026: second year of DAW, where I am now. Next: an internship (FFE).">
+  <source media="(max-width: 544px)" srcset="https://raw.githubusercontent.com/WenzelAddug/WenzelAddug/main/assets/my-path-mobile.svg">
+  <img src="assets/my-path.svg" width="100%" alt="My path. 2022: Grado Medio SMR, systems and networks. 2025: first year of DAW. 2026: second year of DAW, where I am now. Next: an internship (FFE).">
 </picture>
 
 ## Tech stack
