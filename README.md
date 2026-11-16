@@ -1,6 +1,6 @@
 <picture>
-  <source media="(max-width: 544px)" srcset="https://raw.githubusercontent.com/WenzelAddug/WenzelAddug/main/assets/intro-mobile.svg">
-  <img src="assets/intro.svg" width="100%" alt="Hi, I'm Wenzel. Junior web developer in Madrid, open to internships.">
+  <source media="(max-width: 544px)" srcset="https://raw.githubusercontent.com/WenzelAddug/WenzelAddug/main/assets/banner-mobile.svg">
+  <img src="assets/banner.svg" width="100%" alt="Hi, I'm Wenzel. Junior web developer in Madrid, open to internships.">
 </picture>
 
 ## About me
@@ -36,32 +36,32 @@ Lo que más me gusta es pasar un diseño de Figma a una web que funciona. Este c
 ## My path
 
 <picture>
-  <source media="(max-width: 544px)" srcset="https://raw.githubusercontent.com/WenzelAddug/WenzelAddug/main/assets/timeline-mobile.svg">
-  <img src="assets/timeline.svg" width="100%" alt="My path. 2022: Grado Medio SMR, systems and networks. 2025: first year of DAW. 2026: second year of DAW, where I am now. Next: an internship (FFE).">
+  <source media="(max-width: 544px)" srcset="https://raw.githubusercontent.com/WenzelAddug/WenzelAddug/main/assets/my-path-mobile.svg">
+  <img src="assets/my-path.svg" width="100%" alt="My path. 2022: Grado Medio SMR, systems and networks. 2025: first year of DAW. 2026: second year of DAW, where I am now. Next: an internship (FFE).">
 </picture>
 
 ## Tech stack
 
-White is what I already use. Dark grey is what I'm learning this year.
+Light purple is what I already use. Dark blue is what I'm learning this year.
 
 **Frontend**  
-<img src="https://img.shields.io/badge/HTML5-EDEDED?style=flat-square&logo=html5&logoColor=0A0A0A" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-EDEDED?style=flat-square&logo=css&logoColor=0A0A0A" alt="CSS3">
-<img src="https://img.shields.io/badge/JavaScript-EDEDED?style=flat-square&logo=javascript&logoColor=0A0A0A" alt="JavaScript">
+<img src="https://img.shields.io/badge/HTML5-C4B5FD?style=flat-square&logo=html5&logoColor=121530" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-C4B5FD?style=flat-square&logo=css&logoColor=121530" alt="CSS3">
+<img src="https://img.shields.io/badge/JavaScript-C4B5FD?style=flat-square&logo=javascript&logoColor=121530" alt="JavaScript">
 
 **Backend and databases**  
-<img src="https://img.shields.io/badge/Java-EDEDED?style=flat-square&logo=openjdk&logoColor=0A0A0A" alt="Java">
-<img src="https://img.shields.io/badge/MySQL-EDEDED?style=flat-square&logo=mysql&logoColor=0A0A0A" alt="MySQL">
-<img src="https://img.shields.io/badge/PHP-3A3A3A?style=flat-square&logo=php&logoColor=white" alt="PHP (learning)">
-<img src="https://img.shields.io/badge/Jakarta%20EE-3A3A3A?style=flat-square" alt="Jakarta EE (learning)">
+<img src="https://img.shields.io/badge/Java-C4B5FD?style=flat-square&logo=openjdk&logoColor=121530" alt="Java">
+<img src="https://img.shields.io/badge/MySQL-C4B5FD?style=flat-square&logo=mysql&logoColor=121530" alt="MySQL">
+<img src="https://img.shields.io/badge/PHP-3F4475?style=flat-square&logo=php&logoColor=white" alt="PHP (learning)">
+<img src="https://img.shields.io/badge/Jakarta%20EE-3F4475?style=flat-square" alt="Jakarta EE (learning)">
 
 **Design and tools**  
-<img src="https://img.shields.io/badge/Figma-EDEDED?style=flat-square&logo=figma&logoColor=0A0A0A" alt="Figma">
-<img src="https://img.shields.io/badge/Git-EDEDED?style=flat-square&logo=git&logoColor=0A0A0A" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-EDEDED?style=flat-square&logo=github&logoColor=0A0A0A" alt="GitHub">
-<img src="https://img.shields.io/badge/Eclipse-EDEDED?style=flat-square&logo=eclipseide&logoColor=0A0A0A" alt="Eclipse">
-<img src="https://img.shields.io/badge/VS%20Code-EDEDED?style=flat-square" alt="VS Code">
-<img src="https://img.shields.io/badge/AWS-EDEDED?style=flat-square" alt="AWS">
+<img src="https://img.shields.io/badge/Figma-C4B5FD?style=flat-square&logo=figma&logoColor=121530" alt="Figma">
+<img src="https://img.shields.io/badge/Git-C4B5FD?style=flat-square&logo=git&logoColor=121530" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-C4B5FD?style=flat-square&logo=github&logoColor=121530" alt="GitHub">
+<img src="https://img.shields.io/badge/Eclipse-C4B5FD?style=flat-square&logo=eclipseide&logoColor=121530" alt="Eclipse">
+<img src="https://img.shields.io/badge/VS%20Code-C4B5FD?style=flat-square" alt="VS Code">
+<img src="https://img.shields.io/badge/AWS-C4B5FD?style=flat-square" alt="AWS">
 
 ## Certificates
 
@@ -98,6 +98,6 @@ Video games (eFootball, Valorant, NBA 2K), anime and football.
 
 ## Contact
 
-<a href="https://www.linkedin.com/in/wenzel-addug-827195289/"><img src="https://img.shields.io/badge/LinkedIn-Wenzel%20Addug-EDEDED?style=for-the-badge&labelColor=0A0A0A" alt="LinkedIn: Wenzel Addug"></a>
+<a href="https://www.linkedin.com/in/wenzel-addug-827195289/"><img src="https://img.shields.io/badge/LinkedIn-Wenzel%20Addug-C4B5FD?style=for-the-badge&labelColor=121530" alt="LinkedIn: Wenzel Addug"></a>
 
 Feel free to reach out. I'm always happy to connect and collaborate.
