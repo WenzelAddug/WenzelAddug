@@ -13,7 +13,7 @@ I'm in my second year of DAW (Desarrollo de Aplicaciones Web) at IES Tetuán de 
 What I enjoy most is taking a design from a Figma mockup to a page that works. This year I'm learning the server side with PHP and Java, so my plan is to work on both sides of a web app, starting from the frontend.
 
 - Looking for a company for my internship (FFE) this school year, 2026-2027
-- Three course certificates: Figma, Java and PowerShell (listed below)
+- Four course certificates: SQL, Figma, Java and PowerShell (listed below)
 - I speak Tagalog (native), English (C1) and Spanish (B1-B2)
 - I practise algorithms on LeetCode with JavaScript
 
@@ -27,7 +27,7 @@ Estudio 2º de DAW (Desarrollo de Aplicaciones Web) en el IES Tetuán de las Vic
 Lo que más me gusta es pasar un diseño de Figma a una web que funciona. Este curso estoy aprendiendo la parte del servidor con PHP y Java, así que mi idea es trabajar en las dos partes de una aplicación web, empezando por el frontend.
 
 - Busco empresa para hacer las prácticas (FFE) este curso, 2026-2027
-- Tres certificados de cursos: Figma, Java y PowerShell (están más abajo)
+- Cuatro certificados de cursos: SQL, Figma, Java y PowerShell (están más abajo)
 - Hablo tagalo (nativo), inglés (C1) y español (B1-B2)
 - Practico algoritmos en LeetCode con JavaScript
 
@@ -67,6 +67,7 @@ Light purple is what I already use. Dark blue is what I'm learning this year.
 
 | Course | From | Date |
 |---|---|---|
+| SQL desde Cero | OpenWebinars | November 2026 |
 | Curso de Figma | OpenWebinars | October 2026 |
 | Curso de Java Intermedio | Sololearn | May 2026 |
 | Curso de PowerShell para Principiantes | OpenWebinars | November 2024 |
